@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MihailGerogiev.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and C#.
-- 📫 How to reach me: misho.mode.09@gmail.com.
+- 👋 Hi, I’m @MihailGerogiev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python and C#
+- 📫 How to reach me: misho.mode.09@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
