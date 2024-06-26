@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MihailGerogiev
+- 👋 Hi, I’m @MihailGeorgiev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: misho.mode.09@gmail.com
